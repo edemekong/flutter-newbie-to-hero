@@ -1,6 +1,6 @@
-# Flutter Zero to Hero
+# Flutter Newbie to Hero
 
-- Preparing you for your next flutter job.
+- Preparing you for your next flutter job and excelling at your local community.
 
 ### [YT channel(Video Tutorials)](https://www.youtube.com/playlist?list=PLCv-5r6cBxV2fQMyoGnZYfnEHhDAHOhx3)
 
