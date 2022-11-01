@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:widget_explained/inherited_widget.dart';
 import 'package:widget_explained/stateless_widget.dart';
 
 void main() {
@@ -13,12 +12,10 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return MaterialApp(
-      home: FavoriteState(
-        child: const Scaffold(
-          body: Center(
-            child: FavoriteStatelessButton(),
-          ),
+    return const MaterialApp(
+      home: Scaffold(
+        body: Center(
+          child: FavoriteStatelessButton(),
         ),
       ),
     );
