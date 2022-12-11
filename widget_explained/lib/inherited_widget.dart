@@ -1,7 +1,6 @@
 // ignore_for_file: must_be_immutable, overridden_fields, annotate_overrides
 import 'package:flutter/material.dart';
 
-@immutable
 class FavoriteState extends InheritedWidget {
   final Widget child;
 
